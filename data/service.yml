@@ -3,25 +3,33 @@ heading : Our
 headingSpan : Services
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Web Development
+    content : we provide both frontend and backend development services.Our web development team specialized in Laravel,Slim,JavaScript,AngularJS,React,View.
     
+  
+    
+  - icon : tf-ion-android-phone-portrait
+    title : Android Development
+    content : We develop Android apps in Java and Kotlin.Given the board range of devices capable of running Android from smartwatches to smart TVs.
+    
+  - icon : tf-ion-iphone
+    title : Ios Development
+    content : We use modern programming languages, such as Swift and Objective-C and proven technologies and approaches that allow us to easily extent and scale our products.
+
   - icon : tf-ion-laptop
-    title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Desktop Application
+    content : Our desktop application development services provide you with an efficient, user-friendly, and customized desktop application developed using WPF,UWP,Electron,Java.  
+
+  - icon : tf-ion-erlenmeyer-flask-bubbles
+    title : ERP Solutions
+    content : Along with ERP and HR solution we offer custom software development services to automate your business in more efficient way.
+
+  - icon : tf-ion-gear-b
+    title : Robotics
+    content : we can build custom robots using microcontrollers,raspberry Pi,Python,Ros,solidWorks to meet latest technological challenges.
     
-  - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+  - icon : tf-ion-ios-loop-strong
+    title : IoT
+    content : We design & build custom apps that utilize ‘Internet of Things’ to bring a new level of connectivity to businesses and enterprises worldwide.
     
-  - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
-  - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+ 

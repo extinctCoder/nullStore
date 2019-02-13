@@ -3,9 +3,9 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/team-1.jpg
-    name : Abul Mal Muhit
+    name : Sabbir Ahmed Shourov
     designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus   .
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -17,9 +17,9 @@ teamMember :
         url : "#"
       
   - image : images/team/team-2.jpg
-    name : Frank Miller
+    name : MD. Shamiul Islam
     designation : Manager
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio     .
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "#"
@@ -31,7 +31,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-3.jpg
-    name : Michael Jonson
+    name : Ragib Shahriar
     designation : Web Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
@@ -45,7 +45,7 @@ teamMember :
         url : "#"
       
   - image : images/team/team-4.jpg
-    name : Mo. Kha. Alamgir
+    name : Shsisdullah Rakib
     designation : SEO Specialist
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
