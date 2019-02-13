@@ -7,7 +7,19 @@
     <title>nullStore CMS</title>
 </head>
 <body>
-     <!-- Include the script that builds the page and powers Netlify CMS -->
+  <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <!-- include the widget -->
+  <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <!-- Add a menu:
+   Log in / Sign up - when the user is not logged in
+   Username / Log out - when the user is logged in
+  
+  <div data-netlify-identity-menu></div>
+
+   Add a simpler button:
+    Simple button that will open the modal.
+  
+  <div data-netlify-identity-button>Login with Netlify Identity</div>-->
 </body>
 </html>
