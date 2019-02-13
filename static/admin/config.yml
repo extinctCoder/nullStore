@@ -8,7 +8,7 @@ public_folder: "uploads"
 collections:
   - name : "project_title"
     label: "projects"
-    folder: "content/projects" 
+    folder: "content/blog" 
     create: true
     slug: "{{year}}-{{month}}-{{slug}}"
     fields: 
