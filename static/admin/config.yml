@@ -6,7 +6,7 @@ media_folder: "static/uploads"
 public_folder: "uploads"
 
 collections:
-  -name : "project_title"
+  - name : "project_title"
     label: "projects"
     folder: "content/projects" 
     create: true
