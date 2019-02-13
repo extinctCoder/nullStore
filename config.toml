@@ -1,6 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Meghna"
+title = "nullStore"
+
 
 theme = "meghna-hugo"
 
@@ -14,40 +15,41 @@ theme = "meghna-hugo"
     [[menu.nav]]
     name = "Service"
     URL = "services"
-    weight = 3
+    weight = 4
 
     [[menu.nav]]
     name = "Portfolio"
     URL = "portfolio"
-    weight = 4
+    weight = 3
 
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
     weight = 5
 
-    [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
+    # [[menu.nav]]
+    # vname = "Pricing"
+    # URL = "pricing"
+    # weight = 6
 
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
-    weight = 7
+    weight = 6
 
     [[menu.nav]]
     name = "Contact"
     URL = "contact-us"
-    weight = 8
+    weight = 7
 
 # Site params
 [params]
 home= "Home"
+# logo = "https://cdn.iconscout.com/icon/free/png-256/photo-gallery-461706.png"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
+description = "Portfolio"
 author = "Themefisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -57,19 +59,19 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    #icon = "tf-ion-pause"
+    heading = "Welcome to kamla House!"
+    content= "We are some goribsoda student. On the verge of completing our undergraduation. We need jobs to pay for our food, accomodation etc. Please help us!"
     btn = true
     btnText="Explore Us"
-    btnURL="#services"
+    btnURL="https://www.facebook.com/pb.nullZone"
 
     # call to action
     [params.cta]
     enable = true
     title = "Great Design & Incredible Features"
     content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
-    btnURL = "#"
+    btnURL = "https://www.facebook.com/pb.nullZone"
     btnText = "Start a project with us"
 
     # counter
@@ -104,7 +106,7 @@ custom_css = ["css/custom.css"]
         # social Icons
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-facebook"
-        url = "#"
+        url = "https://facebook.com"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
