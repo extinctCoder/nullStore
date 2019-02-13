@@ -33,7 +33,7 @@ theme = "meghna-hugo"
     # weight = 6
 
     [[menu.nav]]
-    name = "Blog"
+    name = "Project"
     URL = "blog"
     weight = 6
 
