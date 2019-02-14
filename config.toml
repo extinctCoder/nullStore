@@ -45,7 +45,6 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Home"
-# logo = "https://cdn.iconscout.com/icon/free/png-256/photo-gallery-461706.png"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
