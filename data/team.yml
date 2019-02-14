@@ -2,7 +2,7 @@ enable : true
 heading : Our
 headingSpan : Team
 teamMember :
-  - image : images/team/team-1.jpg
+  - image : images/team/sourav.jpg
     name : Sabbir Ahmed Shourov
     designation : CEO/Founder
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus   .
@@ -16,7 +16,7 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-2.jpg
+  - image : images/team/himu2.jpg
     name : MD. Shamiul Islam
     designation : Manager
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio     .
@@ -30,7 +30,7 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-3.jpg
+  - image : images/team/ragib.jpg
     name : Ragib Shahriar
     designation : Web Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -44,7 +44,7 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
       
-  - image : images/team/team-4.jpg
+  - image : images/team/team-1.jpg
     name : Shsisdullah Rakib
     designation : SEO Specialist
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
