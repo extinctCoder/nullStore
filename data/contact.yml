@@ -2,7 +2,7 @@ enable : true
 heading : Get In
 headingSpan : Touch
 title : Contact Details
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+content : Share Your Info.The more information we know, the better we’ll be prepared and able to help. Our team will be in touch soon
 enable_maps : false
 mapLatitude : 23.835035
 mapLongitude: 90.416778

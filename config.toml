@@ -17,15 +17,12 @@ theme = "meghna-hugo"
     URL = "services"
     weight = 3
 
-    [[menu.nav]]
-    name = "Portfolio"
-    URL = "portfolio"
-    weight = 4
+    
 
     [[menu.nav]]
     name = "Team"
     URL = "our-team"
-    weight = 5
+    weight = 4
 
     # [[menu.nav]]
     # vname = "Pricing"
@@ -58,9 +55,9 @@ custom_css = ["css/custom.css"]
     [params.banner]
     enable = true
     bgImage = "images/slider/hero-area.jpg"
-    #icon = "tf-ion-pause"
-    heading = "Welcome to kamla House!"
-    content= "We are some goribsoda student. On the verge of completing our undergraduation. We need jobs to pay for our food, accomodation etc. Please help us!"
+    icon = "tf-ion-pause"
+    heading = "Welcome to NUllStore!"
+    content= "A sister concern of ProjectBlank team."
     btn = true
     btnText="Explore Us"
     btnURL="https://www.facebook.com/pb.nullZone"
@@ -68,8 +65,8 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    title = " We Provide Great Design & Incredible Features"
+    content = ""
     btnURL = "https://www.facebook.com/pb.nullZone"
     btnText = "Start a project with us"
 
