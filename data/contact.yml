@@ -4,18 +4,18 @@ headingSpan : Touch
 title : Contact Details
 content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 enable_maps : false
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
+mapLatitude : 23.835035
+mapLongitude: 90.416778
 contactDetails :
   - icon : tf-map-pin
-    info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    info : "House-15,Road-19,Nikunja-2, Bangladesh"
     
   - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +880-31-000-000"
+    info : "Phone: +880-1617475212"
     
-  - icon : tf-ion-iphone
-    info : "Fax: +880-31-000-000"
+  #- icon : tf-ion-iphone
+   # info : "Fax: +880-31-000-000"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: hello@meghna.com"
+    info : "Email:pb.nullzone@gmail.com"
     

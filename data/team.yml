@@ -3,12 +3,12 @@ heading : Our
 headingSpan : Team
 teamMember :
   - image : images/team/sourav.jpg
-    name : Sabbir Ahmed Shourov
-    designation : CEO/Founder
-    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus   .
+    name : Sabbir Ahmed
+    designation :Desktop application and Iot developer.
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio .
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/extinctCoder"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin
@@ -18,25 +18,39 @@ teamMember :
       
   - image : images/team/himu2.jpg
     name : MD. Shamiul Islam
-    designation : Manager
+    designation :web and robotics Developer
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio     .
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/staycrazy.ncallthejoker"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin
         url : "#"
       - icon : tf-ion-social-dribbble-outline
         url : "#"
+
+   - image : images/team/himu2.jpg
+    name : Ratul kumar Bakshi
+    designation :Software QA and Documentation.
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio     .
+    socialIcon :
+      - icon : tf-ion-social-facebook
+        url : "https://www.facebook.com/ratul.bakshi.3"
+      - icon : tf-ion-social-twitter
+        url : "#"
+      - icon : tf-ion-social-linkedin
+        url : "#"
+      - icon : tf-ion-social-dribbble-outline
+        url : "#"      
       
   - image : images/team/ragib.jpg
     name : Ragib Shahriar
-    designation : Web Developer
+    designation : Business Development
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/ragib80"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin
@@ -46,11 +60,11 @@ teamMember :
       
   - image : images/team/team-1.jpg
     name : Shsisdullah Rakib
-    designation : SEO Specialist
+    designation : Mobile Application development.
     description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
     socialIcon :
       - icon : tf-ion-social-facebook
-        url : "#"
+        url : "https://www.facebook.com/shsidulla.rakib"
       - icon : tf-ion-social-twitter
         url : "#"
       - icon : tf-ion-social-linkedin
