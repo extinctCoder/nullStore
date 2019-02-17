@@ -1,7 +1,7 @@
 ---
 title: IoT projects
 date: 2019-02-17T13:03:07.999Z
-image: /uploads/blog-post-3.jpg
+image: /uploads/team-58.jpg
 author: Shamiul Islam
 description: 2 iot Projecs
 Body: |-
