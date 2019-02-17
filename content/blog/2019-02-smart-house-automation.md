@@ -1,13 +1,15 @@
 ---
 title: Smart House Automation
 date: 2019-02-16T09:54:37.338Z
-image: /uploads/blog-post-3.jpg
+image: /uploads/team-2.jpg
 author: Himu
-description: "Meta Discription"
-
- 
+description: Smart House Automation
+Body: 'Link: <https://github.com/extinctCoder/iotProject_2>'
 ---
+<<<<<<< HEAD
  
 
   <https://github.com/extinctCoder/CSFEST_2K17>
+=======
+>>>>>>> a904c5c44d0239c0fa2176fdaf3b21ee439de67e
 
