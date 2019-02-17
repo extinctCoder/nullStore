@@ -8,18 +8,18 @@ description: "A medical portal which gives 24 hour access to personal health inf
 ---
 
 Using a secure username and password, patients can view health information such as:
-Recent doctor visits
-Discharge summaries
-Medications
-Immunizations
-Allergies
-Lab results
+Recent doctor visits,
+Discharge summaries,
+Medications,
+Immunizations,
+Allergies,
+Lab results,
 
 Some patient portals also allow you to:
-Securely message your doctor
-Request prescription refills
-Schedule non-urgent appointments
-Check benefits and coverage
-Update contact information
+Securely message your doctor,
+Request prescription refills,
+Schedule non-urgent appointments,
+Check benefits and coverage,
+Update contact information.
 Link: https://github.com/JITUaiub/MediPortal
 
