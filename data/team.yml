@@ -4,7 +4,7 @@ headingSpan : Team
 teamMember :
   - image : images/team/sourav.jpg
     name : Sabbir Ahmed
-    #designation : Desktop application and Iot developer.
+    designation : Desktop application and Iot developer.
     description : Desktop application and Iot developer .
     socialIcon :
       - icon : tf-ion-social-facebook
@@ -30,7 +30,7 @@ teamMember :
       - icon : tf-ion-social-dribbble-outline
         url : "#"
 
-  - image : images/team/himu2.jpg
+  - image : images/team/ratul.jpg
     name : Ratul Bakshi
     #designation : Software QA and Documentation.
     description : Software QA and Documentation.   .

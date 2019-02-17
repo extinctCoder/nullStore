@@ -7,7 +7,7 @@ description: "Meta Discription"
 
  
 ---
- kgjmfdoiug8oiergop[kfglo;kf,dgfdgb
+ 
 
   <https://github.com/extinctCoder/CSFEST_2K17>
 
