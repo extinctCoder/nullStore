@@ -5,7 +5,7 @@ teamMember :
   - image : images/team/sourav.jpg
     name : Sabbir Ahmed
     designation : Founder & Team Lead
-    description : Desktop application and Iot developer.
+    description : X-Platform Developer, Robotics & IoT Speaciaist
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/extinctCoder"
@@ -18,8 +18,8 @@ teamMember :
       
   - image : images/team/himu2.jpg
     name : MD. Shamiul Islam
-    #designation : web Developer and robotics .
-    description : Web Developer and robotics Developer  .
+    designation : Foundation Membear & Development Lead
+    description : Web Developer and robotics Developer
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/staycrazy.ncallthejoker"
@@ -32,8 +32,8 @@ teamMember :
 
   - image : images/team/ratul.jpg
     name : Ratul Bakshi
-    #designation : Software QA and Documentation.
-    description : Software QA and Documentation.   .
+    designation : Foundation Membear & Administration Lead
+    description : QA & System Administator
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/ratul.bakshi.3"
@@ -46,8 +46,8 @@ teamMember :
  
   - image : images/team/team-1.jpg
     name : Shsisdullah Rakib
-    #designation : Mobile Application development.
-    description : Mobile Application development.
+    designation : Foundation Membear
+    description : Core Adminstrative Instructor
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/shsidulla.rakib"
@@ -60,8 +60,8 @@ teamMember :
         
   - image : images/team/ragib.jpg
     name : Ragib Shahriar
-    #designation : Business Development
-    description : Business Development.
+    designation : Foundation Membear
+    description : Market Analysist
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/ragib80"
