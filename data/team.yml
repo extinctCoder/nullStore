@@ -4,8 +4,8 @@ headingSpan : Team
 teamMember :
   - image : images/team/sourav.jpg
     name : Sabbir Ahmed
-    designation : Desktop application and Iot developer.
-    description : Desktop application and Iot developer .
+    designation : Founder & Team Lead
+    description : Desktop application and Iot developer.
     socialIcon :
       - icon : tf-ion-social-facebook
         url : "https://www.facebook.com/extinctCoder"
