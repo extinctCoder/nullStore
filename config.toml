@@ -1,4 +1,5 @@
-baseURL = "https://www.nullweb.tk/"
+#baseURL = "https://www.nullweb.tk/"
+baseURL = ""
 languageCode = "en-us"
 title = "nullStore"
 
