@@ -8,3 +8,6 @@ description: OpenGl Project
 Link: <https://github.com/extinctCoder/OpenGL>
 
 
+Simple OpenGL Project to visualize mathematical equation.
+
+
